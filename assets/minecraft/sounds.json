@@ -1,0 +1,80 @@
+{
+  "block.dispenser.launch": {
+  "replace": true,
+    "sounds": [
+      "bow_original"
+    ]
+  },
+  "entity.bobber.throw": {
+  "replace": true,
+    "sounds": [
+      "bow_original"
+    ]
+  },
+  "entity.egg.throw": {
+  "replace": true,
+    "sounds": [
+      "bow_original"
+    ]
+  },
+  "entity.endereye.launch": {
+  "replace": true,
+    "sounds": [
+      "bow_original"
+    ]
+  },
+  "entity.enderpearl.throw": {
+  "replace": true,
+    "sounds": [
+      "bow_original"
+    ]
+  },
+  "entity.experience_bottle.throw": {
+  "replace": true,
+    "sounds": [
+      "bow_original"
+    ]
+  },
+  "entity.firework.shoot": {
+  "replace": true,
+    "sounds": [
+      "bow_original"
+    ]
+  },
+  "entity.lingeringpotion.throw": {
+  "replace": true,
+    "sounds": [
+      "bow_original"
+    ]
+  },
+  "entity.skeleton.shoot": {
+  "replace": true,
+    "sounds": [
+      "bow_original"
+    ]
+  },
+  "entity.snowman.shoot": {
+  "replace": true,
+    "sounds": [
+      "bow_original"
+    ]
+  },
+  "entity.splash_potion.throw": {
+  "replace": true,
+    "sounds": [
+      "bow_original"
+    ]
+  },
+  "entity.snowball.throw": {
+  "replace": true,
+    "sounds": [
+      "bow_original"
+    ]
+  },
+  "entity.generic.explode": {
+  "replace": true,
+    "sounds": [
+      "bow_original"
+    ]
+  }
+}
