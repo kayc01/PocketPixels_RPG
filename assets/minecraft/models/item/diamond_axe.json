@@ -2,5 +2,17 @@
     "parent": "item/handheld",
     "textures": {
         "layer0": "items/diamond_axe"
+    },
+    "display": {
+    "thirdperson_righthand": {
+            "rotation": [ 0, -90, 18 ],
+            "translation": [ 0, 1.0, -0.50 ],
+            "scale": [ 0.50, 0.50, 0.50 ]
+        },
+    "firstperson_righthand": {
+            "rotation": [ 0, -90, 15 ],
+            "translation": [ 0.50, 3.2, 0.13 ],
+            "scale": [ 0.50, 0.50, 0.50 ]
+        }
     }
 }
